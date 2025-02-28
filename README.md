@@ -1,5 +1,5 @@
-h2>📌 Project Overview</h2>
-<p>Edu Home Consultancy is a modern and responsive website designed to provide educational consultancy services. The frontend is built using <strong>HTML, CSS, and Bootstrap</strong>, ensuring a professional and mobile-friendly user experience.</p>
+<h1>📌 Project Overview</h1>
+<h1>Edu Home Consultancy is a modern and responsive website designed to provide educational consultancy services. The frontend is built using <strong>HTML, CSS, and Bootstrap</strong>, ensuring a professional and mobile-friendly user experience.</h1>
 
 <h2>✨ Features</h2>
 <ul>
