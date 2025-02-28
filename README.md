@@ -29,3 +29,20 @@
 <h2>📂 Folder Structure</h2>
    <pre><code>EDU-HOME
        </code></pre>
+<h2>🤝 Contribution</h2>
+<ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch:</li>
+    <pre><code>git checkout -b feature-name</code></pre>
+    <li>Commit your changes:</li>
+    <pre><code>git commit -m 'Add new feature'</code></pre>
+    <li>Push to the branch:</li>
+    <pre><code>git push origin feature-name</code></pre>
+    <li>Open a Pull Request.</li>
+</ol>
+
+<h2>📜 License</h2>
+<p>This project is licensed under the <strong>MIT License</strong>.</p>
+
+<h2>📧 Contact</h2>
+<p>For any queries, contact us at <a href="mailto:sasidharan0827@gamil.com">sasidharan0827@gamil.com</a> or visit our website <a href="#">www.edu-home-consultancy.com</a>.</p>
