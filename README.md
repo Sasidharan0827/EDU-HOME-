@@ -27,4 +27,4 @@
 </ol>
 
 <h2>📂 Folder Structure</h2>
-<pre>
+   <pre><code>cd edu-home-consultancy</code></pre>
