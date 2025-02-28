@@ -27,7 +27,11 @@
 </ol>
 
 <h2>📂 Folder Structure</h2>
-   <pre><code>EDU-HOME
+   <pre><code>Edu-Home/
+│── index.html
+│── style.css
+│── assets/
+│   ├── images
        </code></pre>
 <h2>🤝 Contribution</h2>
 <ol>
