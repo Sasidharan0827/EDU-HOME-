@@ -31,7 +31,7 @@
 │── index.html
 │── style.css
 │── assets/
-│   ├── images
+│── images
        </code></pre>
 <h2>🤝 Contribution</h2>
 <ol>
