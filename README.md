@@ -49,4 +49,4 @@
 <p>This project is licensed under the <strong>MIT License</strong>.</p>
 
 <h2>📧 Contact</h2>
-<p>For any queries, contact us at <a href="mailto:sasidharan0827@gamil.com">sasidharan0827@gamil.com</a> or visit our website <a href="#"[https://edu-home-landing-page.netlify.app/]>(https://edu-home-landing-page.netlify.app/)</a>.</p>
+<p>For any queries, contact us at <a href="mailto:sasidharan0827@gamil.com">sasidharan0827@gamil.com</a> or visit our website <a href="https://edu-home-landing-page.netlify.app/">Edu-Home Consultancy</a>.</p>
